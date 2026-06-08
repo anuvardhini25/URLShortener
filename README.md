@@ -66,7 +66,7 @@ CodeAlpha_URLShortener
 
 ### MongoDB Atlas Database
 
-![MongoDB Data](screenshots/mongodb-data.jpeg)
+![MongoDB Data](screenshots/mongodb-data..jpeg)  
 
 ---
 
