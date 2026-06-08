@@ -62,11 +62,11 @@ CodeAlpha_URLShortener
 
 ### Postman API Testing
 
-![Postman Testing](screenshots/postman-test.png)
+![Postman Testing](screenshots/postman-test.jpeg)
 
 ### MongoDB Atlas Database
 
-![MongoDB Data](screenshots/mongodb-data.png)
+![MongoDB Data](screenshots/mongodb-data.jpeg)
 
 ---
 
